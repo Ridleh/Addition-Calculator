@@ -12,7 +12,6 @@ Multiplication
 Division
 Exponents
 Modulo
-test
 @TODO:
 [x] (QOL) Switch from double to bigdecimal (double is bad for math...)
 [x] (Feature) Redo multiply method to allow multiplication of decimals
